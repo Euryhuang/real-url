@@ -74,6 +74,6 @@ def get_real_url(rid):
         return False
 
 
-if __name__ == '__main__':
+if __name__ == '__main__':youxia511
     rid = input('输入虎牙直播房间号：\n')
     print(get_real_url(rid))
